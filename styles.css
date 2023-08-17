@@ -1,0 +1,10 @@
+/* Specify custom fonts */
+body {
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Add more custom font styles as needed */
